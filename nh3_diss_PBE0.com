@@ -21,7 +21,7 @@ H, 1, r4, 2, a3, 3, d4
 
 do i=1,#r
 r4=r(i)
-{rks,b3lyp}
+{rks,pbe0}
 e1(i)=energy
 enddo
 
