@@ -1,7 +1,7 @@
 ***, ammoniac
 print,basis,orbitals
 
-basis, 6-31G(d
+basis, AVTZ
 
    r2 =         1.01900 ang
    r3 =         1.01900 ang
